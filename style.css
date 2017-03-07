@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+code {
+	color: white;
+	font-size: 50px;
+}
+
+tab {
+	padding: 100px;
+}
+
+.center {
+	height: 10em;
+    position: relative
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-40%, -120%)
+}
